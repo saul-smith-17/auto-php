@@ -4,4 +4,5 @@ class auto{
     public $modelo;
     public $color;
     public $placa;
+    public $anio;
 }
